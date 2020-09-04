@@ -1,12 +1,13 @@
 - layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
+  name: StudentAdminProject
+  link: https://github.com/Jialing-Huang/SimpleManagementProject
+  github: https://github.com/Jialing-Huang/SimpleManagementProject
   quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+    It is a front end web application
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
+    - Developed by <mark>Angular 8</mark> 
+    - Local CRUD and search functions available
+    - Simple management UI available with <mark>Bootstrap</mark> CSS style
 
 - layout: top-middle
   name: Some other project
