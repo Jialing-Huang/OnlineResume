@@ -5,9 +5,9 @@
   quote: >
     It is a front end web application
   description: | # this will include new lines to allow paragraphs
-    - Developed by <mark>Angular 8</mark> 
-    - Local CRUD and search functions available
-    - Simple management UI available with <mark>Bootstrap</mark> CSS style
+   The project was developed by <mark>Angular 8</mark>. It has CRUD and search functions.Simple management UI available with <mark>Bootstrap</mark> CSS style
+   For this project, 4 components, 2 services, 2 interceptors and  1 pipe created. The commonly used html form validations implemented. CanDeactivate service implementd as navigation guard.
+
 
 - layout: top-middle
   name: Some other project
