@@ -4,7 +4,7 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Jialing Huang
-title: Junior Front End Developer
+title: Junior Web Developer
 email: jialing.huang@hotmail.com
 #website: www.github.com/sproogen/resume-theme
 
@@ -21,10 +21,10 @@ linkedin_username: jameswgrant
 # googleplus_username: +jekyll
 
 # About Section
-# about_title: About Me
+# about_title: Professional Skill
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Jialing and I'm looking for a job of junior Front End Developer. 
+  Hi, my name's Jialing and I'm looking for a job position as junior Web Developer. 
 
   I am most skilled in:
   
