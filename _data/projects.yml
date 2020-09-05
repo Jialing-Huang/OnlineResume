@@ -11,7 +11,8 @@
    The commonly used html form validations implemented. 
    
    CanDeactivate service implementd as navigation guard.
-
+   
+   
 
 - layout: top-middle
   name: d3.js chart demo
@@ -21,7 +22,9 @@
   description: | # this will include new lines to allow paragraphs
     The demo is a d3.js chart demonstration developed by <mark>d3.js</mark> library. The data generated randomly and the d3.js chart driven by the data. 
     
-    There are three types of charts implemented in the demo, as bar chart, pie chart and scatter chart.
+    There are three types of charts implemented in the demo, as <mark>bar</mark> chart, <mark>pie</mark> chart and <mark>scatter</mark> chart.
+    
+    
 
 - layout: top-middle
   name: Dashboardviewproject
@@ -38,3 +41,23 @@
     <mark>d3.js</mark> library implemented.
 
     Angular Material components like Sidenav, Table, Card, Stepper, Grid-list and Angular Component Interaction as error handler implemented.
+    
+    
+    
+- layout: top-middle
+  name: SimpleManagementProject
+  link: 
+  github: Jialing-Huang/SimpleManagementProject
+  quote: >
+  description: | # this will include new lines to allow paragraphs
+    The project is a <mark>MEAN</mark> stack web app developed by <mark>Angular</mark> , <mark>Node.js</mark>, <mark>MongoDB</mark>. Online Login and Register functions available. <mark>Bootstrap</mark> style implemented.
+    
+    There are 7 components, 3 service creatd.
+    
+    Created 2 interceptors for error handler.
+    
+    <mark>Json Web Token</mark> (JWT) implemented for authentication.
+    
+    CanDeactivate service used as navigation guard.
+    
+    Implemented Node.js based middlewares like <mark>Express</mark>, <mark>Mongoose</mark>.
