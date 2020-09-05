@@ -4,8 +4,13 @@
   github: Jialing-Huang/StudentAdminProject
   quote: >
   description: | # this will include new lines to allow paragraphs
-   The project is a front end web application and developed by <mark>Angular 8</mark>. It has CRUD functions.Simple management UI available with <mark>Bootstrap</mark> CSS style
-   For this project, 4 components, 2 services, 2 interceptors and  1 pipe created. The commonly used html form validations implemented. CanDeactivate service implementd as navigation guard.
+   The project is a front end web application and developed by <mark>Angular 8</mark>. It has CRUD functions.Simple management UI available with <mark>Bootstrap</mark> CSS style.
+   
+   There are 4 components, 2 services, 2 interceptors and  1 pipe created. 
+   
+   The commonly used html form validations implemented. 
+   
+   CanDeactivate service implementd as navigation guard.
 
 
 - layout: top-middle
@@ -24,4 +29,12 @@
   github: Jialing-Huang/DashboardViewProject
   quote: >
   description: | # this will include new lines to allow paragraphs
-    A MEAN stack web app developed by Angular 8 , Node.js, MongoDB.Atlas. Online Login and Register functions available. Material design style UI by Angular Material Library
+    The project is a <mark>MEAN</mark> stack web app developed by <mark>Angular</mark> , <mark>Node.js</mark>, <mark>MongoDB</mark>. Online Login and Register functions available. Material design style UI by Angular Material Library.
+    
+    There are 7 components, 1 service creatd.
+    
+    Implemented Node.js based middlewares like <mark>Express</mark>, <mark>Mongoose</mark>.
+    
+    <mark>d3.js</mark> library implemented.
+
+    Angular Material components like Sidenav, Table, Card, Stepper, Grid-list and Angular Component Interaction as error handler implemented.
