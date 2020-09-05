@@ -31,6 +31,14 @@ about_content: | # this will include new lines to allow paragraphs
   Web Development Framework: <mark>Angular</mark>   &   <mark>ASP.NET CORE</mark>
   
   Programming Language: <mark>JavaScript</mark>   &    <mark>TypeScript</mark>   &   <mark>Java</mark>  &  <mark>PHP</mark>
+  
+  Web Coding Library: <mark>jQuery</mark>   &    <mark>node.js</mark>   &   <mark>d3.js</mark> 
+  
+  Database Skill: <mark>SQL</mark> & <mark>MongoDB</mark>
+  
+  Web Development Basic Skill:<mark>Html</mark>   &    <mark>CSS</mark>   &   <mark>DOM</mark> 
+  
+  Web Development Kit: <mark>Postman</mark>   &    <mark>Git</mark> 
 
 # Projects Section
 # projects_title: Projects
