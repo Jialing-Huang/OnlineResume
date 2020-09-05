@@ -3,9 +3,8 @@
   link: http://angular-student-admin.s3-website.us-east-2.amazonaws.com
   github: Jialing-Huang/StudentAdminProject
   quote: >
-    It is a front end web application
   description: | # this will include new lines to allow paragraphs
-   The project was developed by <mark>Angular 8</mark>. It has CRUD functions.Simple management UI available with <mark>Bootstrap</mark> CSS style
+   The project is a front end web application and developed by <mark>Angular 8</mark>. It has CRUD functions.Simple management UI available with <mark>Bootstrap</mark> CSS style
    For this project, 4 components, 2 services, 2 interceptors and  1 pipe created. The commonly used html form validations implemented. CanDeactivate service implementd as navigation guard.
 
 
@@ -14,9 +13,10 @@
   link: http://d3js-chart-demo.s3-website.us-east-2.amazonaws.com
   github: Jialing-Huang/d3.js-charts-demo
   quote: >
-    It is a d3.js chart demo
   description: | # this will include new lines to allow paragraphs
-    The demo is developed by <mark>d3.js</mark> library. The data generated randomly and the d3.js chart driven by the data.
+    The demo is a d3.js chart demonstration developed by <mark>d3.js</mark> library. The data generated randomly and the d3.js chart driven by the data. 
+    
+    There are three types of charts implemented in the demo, as bar chart, pie chart and scatter chart.
 
 - layout: top-middle
   name: Dashboardviewproject
