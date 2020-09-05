@@ -17,6 +17,7 @@
     It is a d3.js chart demo
   description: | # this will include new lines to allow paragraphs
     The demo is developed by <mark>d3.js</mark> library. The data generated randomly and the d3.js chart driven by the data.
+    - images/profile.jpg
 
 - layout: top-middle
   name: Dashboardviewproject
