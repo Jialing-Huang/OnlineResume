@@ -1,6 +1,6 @@
 - layout: top-middle
   name: StudentAdminProject
-  link: http: //angular-student-admin.s3-website.us-east-2.amazonaws.com
+  link: "http://angular-student-admin.s3-website.us-east-2.amazonaws.com"
   github: Jialing-Huang/SimpleManagementProject
   quote: >git 
     It is a front end web application
