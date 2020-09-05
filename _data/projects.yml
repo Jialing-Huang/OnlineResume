@@ -1,4 +1,4 @@
-- layout: top-middle
+- layout: top-left
   name: StudentAdminProject
   link: http://angular-student-admin.s3-website.us-east-2.amazonaws.com
   github: Jialing-Huang/StudentAdminProject
@@ -9,7 +9,7 @@
    For this project, 4 components, 2 services, 2 interceptors and  1 pipe created. The commonly used html form validations implemented. CanDeactivate service implementd as navigation guard.
 
 
-- layout: top-middle
+- layout: top-left
   name: d3.js chart demo
   link: http://d3js-chart-demo.s3-website.us-east-2.amazonaws.com
   github: Jialing-Huang/d3.js-charts-demo
@@ -17,3 +17,15 @@
     It is a d3.js chart demo
   description: | # this will include new lines to allow paragraphs
     The demo is developed by <mark>d3.js</mark> library. The data generated randomly and the d3.js chart driven by the data.
+
+- layout: top-left
+  name: Dashboardviewproject
+  link: 
+  github: Jialing-Huang/DashboardViewProject
+  #quote: >
+  description: | # this will include new lines to allow paragraphs
+  - A MEAN stack web app developed by Angular 8 , Node.js, MongoDB.Atlas
+    
+  - Online Login and Register functions available
+  
+  - Material design style UI by Angular Material Library
