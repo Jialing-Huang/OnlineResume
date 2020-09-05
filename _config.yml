@@ -28,7 +28,9 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am most skilled in:
   
-  Web Development Framework: <mark>Angular</mark> & <mark>ASP.NET CORE</mark>
+  Web Development Framework: <mark>Angular</mark>   &   <mark>ASP.NET CORE</mark>
+  
+  Programming Language: <mark>JavaScript</mark>/<mark>TypeScript</mark>   &   <mark>Java</mark>  &  <mark>PHP</mark>
 
 # Projects Section
 # projects_title: Projects
