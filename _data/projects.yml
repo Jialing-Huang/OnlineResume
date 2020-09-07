@@ -1,4 +1,18 @@
 - layout: top-middle
+  name: Personal Project Management (PPM)
+  link: https://jj-ppm.herokuapp.com/
+  github: Jialing-Huang/JJPPM
+  quote: >
+  description: | # this will include new lines to allow paragraphs
+    The project is a web application made for personal project management. It was developed by <mark>ASP.NET CORE</mark> framework.
+    
+    The project can help user to manage personal events at two levels: project and task. The user can create multiple tasks in a single project.
+    
+    There are 4 C# models created, adn good <mark>CSS</mark> effect and <mark>Google Charts</mark> implemented. 
+    
+    
+    
+- layout: top-middle
   name: StudentAdminProject
   link: http://angular-student-admin.s3-website.us-east-2.amazonaws.com
   github: Jialing-Huang/StudentAdminProject
@@ -11,8 +25,7 @@
    The commonly used html form validations implemented. 
    
    CanDeactivate service implementd as navigation guard.
-   
-   
+    
 
 - layout: top-middle
   name: d3.js chart demo
