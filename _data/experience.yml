@@ -1,9 +1,10 @@
-# - layout: left
+ - layout: left
  #company: 
   #link: 
   #job_title: 
   #dates: 
   #quote: >
   
-  #description: | # this will include new lines to allow paragraphs
+  description: | # this will include new lines to allow paragraphs
+  Before I went to John Abbott College to learn internet programming development, I had been a mechanical engineer for many years.
     
