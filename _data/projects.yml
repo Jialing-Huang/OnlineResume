@@ -1,30 +1,40 @@
 - layout: top-middle
-  name: Personal Project Management (PPM)
-  link: https://jj-ppm.herokuapp.com/
-  github: Jialing-Huang/JJPPM
+  name: Student-Admin
+  link: http://student-monitor.s3-website.us-east-2.amazonaws.com/
+  github: Jialing-Huang/student-admin
   quote: >
   description: | # this will include new lines to allow paragraphs
-    The project is a web application made for personal project management. It was developed by <mark>ASP.NET CORE</mark> framework.
+   The project is a <mark>MEAN</mark> web application and developed by <mark>Angular 11</mark>. 
+   
+   Both CRUD and login administration functions implemented.
+   
+   Main features:
+   
+   1. <mark>7 components, 2 services</mark> created for front-end.
+   
+   2. <mark>Bootstrap 4</mark> library and basic <mark>CSS</mark> styles implemented for html pages. 
+   
+   3. Commonly used restriction implemented at form html pages. 
     
-    The project can help user to manage personal events at two levels: project and task. The user can create multiple tasks in a single project.
-    
-    There are 4 C# models created, adn good <mark>CSS</mark> effect and <mark>Google Charts</mark> implemented. 
-    
-    
+   4. <mark>1 pipe</mark> created for searching html page content as students' first name.
+   
+   5. Back-end part developed by <mark>Node.js and Express middlewares</mark>.
+   
+   6. <mark>JSONWEBTOKEN and 1 interceptor</mark> used as authentication method.
+   
+   7. <mark>MongoDB Atlas</mark> as cloud database. The project deployed on AWS EB as dynamic server side and AWS S3 as static server side. 
+   
+      
     
 - layout: top-middle
-  name: StudentAdminProject
+  name: Student-Admin Front-End
   link: http://angular-student-admin.s3-website.us-east-2.amazonaws.com
   github: Jialing-Huang/StudentAdminProject
   quote: >
   description: | # this will include new lines to allow paragraphs
-   The project is a front end web application and developed by <mark>Angular 8</mark>. It has CRUD functions.Simple management UI available with <mark>Bootstrap</mark> CSS style.
+   The project is the front end of the above student-admin web application and developed by <mark>Angular 8</mark>.
    
-   There are 4 components, 2 services, 2 interceptors and  1 pipe created. 
-   
-   The commonly used html form validations implemented. 
-   
-   CanDeactivate service implementd as navigation guard.
+   CanDeactivate service added as navigation guard.
     
 
 - layout: top-middle
@@ -74,3 +84,18 @@
     CanDeactivate service used as navigation guard.
     
     Implemented Node.js based middlewares like <mark>Express</mark>, <mark>Mongoose</mark>.
+    
+    
+    
+    
+- layout: top-middle
+  name: Personal Project Management (PPM)
+  link: https://jj-ppm.herokuapp.com/
+  github: Jialing-Huang/JJPPM
+  quote: >
+  description: | # this will include new lines to allow paragraphs
+    The project is a web application made for personal project management. It was developed by <mark>ASP.NET CORE</mark> framework.
+    
+    The project can help user to manage personal events at two levels: project and task. The user can create multiple tasks in a single project.
+    
+    There are 4 C# models created, adn good <mark>CSS</mark> effect and <mark>Google Charts</mark> implemented. 
