@@ -6,7 +6,7 @@
   description: | # this will include new lines to allow paragraphs
    The project is a <mark>MEAN</mark> web application and developed by <mark>Angular 11</mark>. 
    
-   Both CRUD and login administration functions implemented.
+   Both <mark>student data CRUD</mark> and <mark>login administration</mark> functions implemented.
    
    Main features:
    
@@ -18,11 +18,11 @@
     
    4. <mark>1 pipe</mark> created for searching html page content as students' first name.
    
-   5. Back-end part developed by <mark>Node.js and Express middlewares</mark>.
+   5. Back-end part developed by <mark>Node.js</mark> and <mark>Express middlewares</mark>.
    
-   6. <mark>JSONWEBTOKEN and 1 interceptor</mark> used as authentication method.
+   6. <mark>"JSONWEBTOKEN" Express middleware</mark> and <mark>1 interceptor</mark> used as authentication method.
    
-   7. <mark>MongoDB Atlas</mark> as cloud database. The project deployed on AWS EB as dynamic server side and AWS S3 as static server side. 
+   7. <mark>MongoDB Atlas</mark> as cloud database. The project deployed on <mark>AWS EB</mark> as dynamic server side and <mark>AWS S3</mark> as static server side. 
    
       
     
