@@ -65,26 +65,7 @@
 
     Angular Material components like Sidenav, Table, Card, Stepper, Grid-list and Angular Component Interaction as error handler implemented.
     
-    
-    
-- layout: top-middle
-  name: SimpleManagementProject
-  link: 
-  github: Jialing-Huang/SimpleManagementProject
-  quote: >
-  description: | # this will include new lines to allow paragraphs
-    The project is a <mark>MEAN</mark> stack web app developed by <mark>Angular</mark> , <mark>Node.js</mark>, <mark>MongoDB</mark>. Online Login and Register functions available. <mark>Bootstrap</mark> style implemented.
-    
-    There are 7 components, 3 service creatd.
-    
-    Created 2 interceptors for error handler.
-    
-    <mark>Json Web Token</mark> (JWT) implemented for authentication.
-    
-    CanDeactivate service used as navigation guard.
-    
-    Implemented Node.js based middlewares like <mark>Express</mark>, <mark>Mongoose</mark>.
-    
+      
     
     
     
