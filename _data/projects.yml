@@ -12,17 +12,17 @@
    
       - <mark>7 components, 2 services</mark> created for front-end.
    
-      <mark>Bootstrap 4</mark> library and basic <mark>CSS</mark> styles implemented for html pages. 
+      - <mark>Bootstrap 4</mark> library and basic <mark>CSS</mark> styles implemented for html pages. 
    
-      Commonly used restriction implemented at form html pages. 
+      - Commonly used restriction implemented at form html pages. 
     
-      <mark>1 pipe</mark> created for searching html page content as students' first name.
+      - <mark>1 pipe</mark> created for searching html page content as students' first name.
    
-      Back-end part developed by <mark>Node.js</mark> and <mark>Express middlewares</mark>.
+      - Back-end part developed by <mark>Node.js</mark> and <mark>Express middlewares</mark>.
    
-      <mark>"JSONWEBTOKEN" Express middleware</mark> and <mark>1 interceptor</mark> used as authentication method.
+      - <mark>"JSONWEBTOKEN" Express middleware</mark> and <mark>1 interceptor</mark> used as authentication method.
    
-      <mark>MongoDB Atlas</mark> as cloud database. The project deployed on <mark>AWS EB</mark> as dynamic server side and <mark>AWS S3</mark> as static server side. 
+      - <mark>MongoDB Atlas</mark> as cloud database. The project deployed on <mark>AWS EB</mark> as dynamic server side and <mark>AWS S3</mark> as static server side. 
    
       
     
