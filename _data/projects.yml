@@ -47,27 +47,9 @@
     
     There are three types of charts implemented in the demo, as <mark>bar</mark> chart, <mark>pie</mark> chart and <mark>scatter</mark> chart.
     
-    
-
-- layout: top-middle
-  name: Dashboardviewproject
-  link: 
-  github: Jialing-Huang/DashboardViewProject
-  quote: >
-  description: | # this will include new lines to allow paragraphs
-    The project is a <mark>MEAN</mark> stack web app developed by <mark>Angular</mark> , <mark>Node.js</mark>, <mark>MongoDB</mark>. Online Login and Register functions available. Material design style UI by Angular Material Library.
-    
-    There are 7 components, 1 service creatd.
-    
-    Implemented Node.js based middlewares like <mark>Express</mark>, <mark>Mongoose</mark>.
-    
-    <mark>d3.js</mark> library implemented.
-
-    Angular Material components like Sidenav, Table, Card, Stepper, Grid-list and Angular Component Interaction as error handler implemented.
-    
-      
-    
-    
+   
+   
+   
     
 - layout: top-middle
   name: Personal Project Management (PPM)
